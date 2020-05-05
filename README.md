@@ -1,0 +1,2 @@
+# VeritipiDonusturme
+ VeriTipiDonusturme ekelndi
